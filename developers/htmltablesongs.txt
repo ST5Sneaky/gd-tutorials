@@ -1,0 +1,333 @@
+<table class="wikitable" style="width:100%;">
+<caption>Main levels
+</caption>
+<tbody><tr>
+<th>Level
+</th>
+<th style="min-width:68px;">Difficulty
+</th>
+<th>Mana orbs
+</th>
+<th>Stars
+</th>
+<th style="min-width:81px;">Released
+</th>
+<th style="min-width:94px;">Artist
+</th>
+<th>Music
+</th></tr>
+<tr>
+<td>1. <a href="/wiki/Stereo_Madness" title="Stereo Madness">Stereo Madness</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest?cb=20170203093338" class="image"><img alt="Easy.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest/scale-to-width-down/22?cb=20170203093338" decoding="async" width="22" height="22" data-image-name="Easy.png" data-image-key="Easy.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest/scale-to-width-down/22?cb=20170203093338" class=" lazyloaded"></a> Easy
+</td>
+<td>50
+</td>
+<td>1
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://foreverbound.newgrounds.com">ForeverBound</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/0/04/StereoMadness.ogg/revision/latest?cb=20150509062245" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:StereoMadness.ogg">https://geometry-dash.fandom.com/wiki/File:StereoMadness.ogg</a></audio>
+</td></tr>
+<tr>
+<td>2. <a href="/wiki/Back_On_Track" title="Back On Track">Back On Track</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest?cb=20170203093338" class="image"><img alt="Easy.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest/scale-to-width-down/22?cb=20170203093338" decoding="async" width="22" height="22" data-image-name="Easy.png" data-image-key="Easy.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7a/Easy.png/revision/latest/scale-to-width-down/22?cb=20170203093338" class=" lazyloaded"></a> Easy
+</td>
+<td>75
+</td>
+<td>2
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/9/9b/BackOnTrack.ogg/revision/latest?cb=20150224083013" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:BackOnTrack.ogg">https://geometry-dash.fandom.com/wiki/File:BackOnTrack.ogg</a></audio>
+</td></tr>
+<tr>
+<td>3. <a href="/wiki/Polargeist" title="Polargeist">Polargeist</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest?cb=20190225051707" class="image"><img alt="Normal.png" src="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest/scale-to-width-down/22?cb=20190225051707" decoding="async" width="22" height="22" data-image-name="Normal.png" data-image-key="Normal.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest/scale-to-width-down/22?cb=20190225051707" class=" lazyloaded"></a> Normal
+</td>
+<td>100
+</td>
+<td>3
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://step.newgrounds.com">Step</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/1/1c/Polargeist.ogg/revision/latest?cb=20150509062057" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Polargeist.ogg">https://geometry-dash.fandom.com/wiki/File:Polargeist.ogg</a></audio>
+</td></tr>
+<tr>
+<td>4. <a href="/wiki/Dry_Out" title="Dry Out">Dry Out</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest?cb=20190225051707" class="image"><img alt="Normal.png" src="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest/scale-to-width-down/22?cb=20190225051707" decoding="async" width="22" height="22" data-image-name="Normal.png" data-image-key="Normal.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/f/fb/Normal.png/revision/latest/scale-to-width-down/22?cb=20190225051707" class=" lazyloaded"></a> Normal
+</td>
+<td>125
+</td>
+<td>4
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/c/ce/DryOut.ogg/revision/latest?cb=20150224235310" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:DryOut.ogg">https://geometry-dash.fandom.com/wiki/File:DryOut.ogg</a></audio>
+</td></tr>
+<tr>
+<td>5. <a href="/wiki/Base_After_Base" title="Base After Base">Base After Base</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest?cb=20170203093712" class="image"><img alt="Hard.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest/scale-to-width-down/22?cb=20170203093712" decoding="async" width="22" height="22" data-image-name="Hard.png" data-image-key="Hard.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest/scale-to-width-down/22?cb=20170203093712" class=" lazyloaded"></a> Hard
+</td>
+<td>150
+</td>
+<td>5
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/9/9a/BaseAfterBase.ogg/revision/latest?cb=20150224234201" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:BaseAfterBase.ogg">https://geometry-dash.fandom.com/wiki/File:BaseAfterBase.ogg</a></audio>
+</td></tr>
+<tr>
+<td>6. <a href="/wiki/Can%27t_Let_Go" title="Can't Let Go">Can't Let Go</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest?cb=20170203093712" class="image"><img alt="Hard.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest/scale-to-width-down/22?cb=20170203093712" decoding="async" width="22" height="22" data-image-name="Hard.png" data-image-key="Hard.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/d5/Hard.png/revision/latest/scale-to-width-down/22?cb=20170203093712" class=" lazyloaded"></a> Hard
+</td>
+<td>175
+</td>
+<td>6
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/4/42/Can%27tLetGo.ogg/revision/latest?cb=20150224234515" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Can%27tLetGo.ogg">https://geometry-dash.fandom.com/wiki/File:Can%27tLetGo.ogg</a></audio>
+</td></tr>
+<tr>
+<td>7. <a href="/wiki/Jumper" title="Jumper">Jumper</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest?cb=20170203093949" class="image"><img alt="Harder.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" decoding="async" width="22" height="22" data-image-name="Harder.png" data-image-key="Harder.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" class=" lazyloaded"></a> Harder
+</td>
+<td>200
+</td>
+<td>7
+</td>
+<td>Initial release
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/a/a4/Jumper.ogg/revision/latest?cb=20150509061940" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Jumper.ogg">https://geometry-dash.fandom.com/wiki/File:Jumper.ogg</a></audio>
+</td></tr>
+<tr>
+<td>8. <a href="/wiki/Time_Machine" title="Time Machine">Time Machine</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest?cb=20170203093949" class="image"><img alt="Harder.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" decoding="async" width="22" height="22" data-image-name="Harder.png" data-image-key="Harder.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" class=" lazyloaded"></a> Harder
+</td>
+<td>225
+</td>
+<td>8
+</td>
+<td><a href="/wiki/Update_1.1" title="Update 1.1">Update 1.1</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/6/6b/TimeMachine.ogg/revision/latest?cb=20150509063120" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:TimeMachine.ogg">https://geometry-dash.fandom.com/wiki/File:TimeMachine.ogg</a></audio>
+</td></tr>
+<tr>
+<td>9. <a href="/wiki/Cycles" title="Cycles">Cycles</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest?cb=20170203093949" class="image"><img alt="Harder.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" decoding="async" width="22" height="22" data-image-name="Harder.png" data-image-key="Harder.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" class=" lazyloaded"></a> Harder
+</td>
+<td>250
+</td>
+<td>9
+</td>
+<td><a href="/wiki/Update_1.2" title="Update 1.2">Update 1.2</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/3/3a/Cycles.ogg/revision/latest?cb=20150224235139" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Cycles.ogg">https://geometry-dash.fandom.com/wiki/File:Cycles.ogg</a></audio>
+</td></tr>
+<tr>
+<td>10. <a href="/wiki/XStep" title="XStep">xStep</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" lazyloaded"></a> Insane
+</td>
+<td>275
+</td>
+<td>10
+</td>
+<td><a href="/wiki/Update_1.3" title="Update 1.3">Update 1.3</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://djvi.newgrounds.com">DJVI</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/8/8e/XStep.ogg/revision/latest?cb=20150509063207" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:XStep.ogg">https://geometry-dash.fandom.com/wiki/File:XStep.ogg</a></audio>
+</td></tr>
+<tr>
+<td>11. <a href="/wiki/Clutterfunk" title="Clutterfunk">Clutterfunk</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" lazyloaded"></a> Insane
+</td>
+<td>300
+</td>
+<td>11
+</td>
+<td><a href="/wiki/Update_1.4" title="Update 1.4">Update 1.4</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/4/46/Clutterfunk.ogg/revision/latest?cb=20150224234845" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Clutterfunk.ogg">https://geometry-dash.fandom.com/wiki/File:Clutterfunk.ogg</a></audio>
+</td></tr>
+<tr>
+<td>12. <a href="/wiki/Theory_of_Everything" title="Theory of Everything">Theory of Everything</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" ls-is-cached lazyloaded"></a> Insane
+</td>
+<td>325
+</td>
+<td>12
+</td>
+<td><a href="/wiki/Update_1.5" title="Update 1.5">Update 1.5</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://dj-nate.newgrounds.com">dj-Nate</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/b/b1/TheoryOfEverything.ogg/revision/latest?cb=20150509062316" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:TheoryOfEverything.ogg">https://geometry-dash.fandom.com/wiki/File:TheoryOfEverything.ogg</a></audio>
+</td></tr>
+<tr>
+<td>13. <a href="/wiki/Electroman_Adventures" title="Electroman Adventures">Electroman Adventures</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" ls-is-cached lazyloaded"></a> Insane
+</td>
+<td>275
+</td>
+<td>10
+</td>
+<td><a href="/wiki/Update_1.6" title="Update 1.6">Update 1.6</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/a/ae/ElectromanAdventures.ogg/revision/latest?cb=20150223082648" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:ElectromanAdventures.ogg">https://geometry-dash.fandom.com/wiki/File:ElectromanAdventures.ogg</a></audio>
+</td></tr>
+<tr>
+<td>14. <a href="/wiki/Clubstep" title="Clubstep">Clubstep</a> (10 secret coin lock)
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest?cb=20190225052605" class="image"><img alt="Demon.png" src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" decoding="async" width="22" height="20" data-image-name="Demon.png" data-image-key="Demon.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" class=" lazyloaded"></a> Demon
+</td>
+<td>500
+</td>
+<td>14
+</td>
+<td><a href="/wiki/Update_1.6" title="Update 1.6">Update 1.6</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://dj-nate.newgrounds.com">dj-Nate</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/d/d4/Clubstep.ogg/revision/latest?cb=20150224234704" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Clubstep.ogg">https://geometry-dash.fandom.com/wiki/File:Clubstep.ogg</a></audio>
+</td></tr>
+<tr>
+<td>15. <a href="/wiki/Electrodynamix" title="Electrodynamix">Electrodynamix</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" ls-is-cached lazyloaded"></a> Insane
+</td>
+<td>325
+</td>
+<td>12
+</td>
+<td><a href="/wiki/Update_1.7" title="Update 1.7">Update 1.7</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://dj-nate.newgrounds.com">dj-Nate</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/9/98/Electrodynamix.ogg/revision/latest?cb=20150224235342" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Electrodynamix.ogg">https://geometry-dash.fandom.com/wiki/File:Electrodynamix.ogg</a></audio>
+</td></tr>
+<tr>
+<td>16. <a href="/wiki/Hexagon_Force" title="Hexagon Force">Hexagon Force</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" ls-is-cached lazyloaded"></a> Insane
+</td>
+<td>325
+</td>
+<td>12
+</td>
+<td><a href="/wiki/Update_1.8" title="Update 1.8">Update 1.8</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/5/5e/HexagonForce.ogg/revision/latest?cb=20150509061553" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:HexagonForce.ogg">https://geometry-dash.fandom.com/wiki/File:HexagonForce.ogg</a></audio>
+</td></tr>
+<tr>
+<td>17. <a href="/wiki/Blast_Processing" title="Blast Processing">Blast Processing</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest?cb=20170203093949" class="image"><img alt="Harder.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" decoding="async" width="22" height="22" data-image-name="Harder.png" data-image-key="Harder.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" class=" ls-is-cached lazyloaded"></a> Harder
+</td>
+<td>275
+</td>
+<td>10
+</td>
+<td><a href="/wiki/Update_1.9" title="Update 1.9">Update 1.9</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/8/87/BlastProcessing.ogg/revision/latest?cb=20150517183809" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:BlastProcessing.ogg">https://geometry-dash.fandom.com/wiki/File:BlastProcessing.ogg</a></audio>
+</td></tr>
+<tr>
+<td>18. <a href="/wiki/Theory_of_Everything_2" title="Theory of Everything 2">Theory of Everything 2</a> (20 secret coin lock)
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest?cb=20190225052605" class="image"><img alt="Demon.png" src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" decoding="async" width="22" height="20" data-image-name="Demon.png" data-image-key="Demon.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" class=" ls-is-cached lazyloaded"></a> Demon
+</td>
+<td>500
+</td>
+<td>14
+</td>
+<td><a href="/wiki/Update_1.9" title="Update 1.9">Update 1.9</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://dj-nate.newgrounds.com">dj-Nate</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/TheoryOfEverything2.ogg/revision/latest?cb=20150509062319" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:TheoryOfEverything2.ogg">https://geometry-dash.fandom.com/wiki/File:TheoryOfEverything2.ogg</a></audio>
+</td></tr>
+<tr>
+<td>19. <a href="/wiki/Geometrical_Dominator" title="Geometrical Dominator">Geometrical Dominator</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest?cb=20170203093949" class="image"><img alt="Harder.png" src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" decoding="async" width="22" height="22" data-image-name="Harder.png" data-image-key="Harder.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/d/db/Harder.png/revision/latest/scale-to-width-down/22?cb=20170203093949" class=" ls-is-cached lazyloaded"></a> Harder
+</td>
+<td>275
+</td>
+<td>10
+</td>
+<td><a href="/wiki/Update_2.0" title="Update 2.0">Update 2.0</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://waterflame.newgrounds.com">Waterflame</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/5/58/GeometricalDominator.ogg/revision/latest?cb=20150908045942" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:GeometricalDominator.ogg">https://geometry-dash.fandom.com/wiki/File:GeometricalDominator.ogg</a></audio>
+</td></tr>
+<tr>
+<td>20. <a href="/wiki/Deadlocked" title="Deadlocked">Deadlocked</a> (30 secret coin lock)
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest?cb=20190225052605" class="image"><img alt="Demon.png" src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" decoding="async" width="22" height="20" data-image-name="Demon.png" data-image-key="Demon.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/c/c4/Demon.png/revision/latest/scale-to-width-down/22?cb=20190225052605" class=" ls-is-cached lazyloaded"></a> Demon
+</td>
+<td>500
+</td>
+<td>15
+</td>
+<td><a href="/wiki/Update_2.0" title="Update 2.0">Update 2.0</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://f-777.newgrounds.com">F-777</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/2/2f/Deadlocked.ogg/revision/latest?cb=20150908050213" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Deadlocked.ogg">https://geometry-dash.fandom.com/wiki/File:Deadlocked.ogg</a></audio>
+</td></tr>
+<tr>
+<td>21. <a href="/wiki/Fingerdash" title="Fingerdash">Fingerdash</a>
+</td>
+<td><a href="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest?cb=20170203094739" class="image"><img alt="Insane.png" src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" decoding="async" width="22" height="22" data-image-name="Insane.png" data-image-key="Insane.png" data-src="https://static.wikia.nocookie.net/geometry-dash/images/7/7f/Insane.png/revision/latest/scale-to-width-down/22?cb=20170203094739" class=" ls-is-cached lazyloaded"></a> Insane
+</td>
+<td>325
+</td>
+<td>12
+</td>
+<td><a href="/wiki/Update_2.1" title="Update 2.1">Update 2.1</a>
+</td>
+<td><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://www.youtube.com/user/MDKOfficialYT">MDK</a>
+</td>
+<td><audio src="https://static.wikia.nocookie.net/geometry-dash/images/3/32/Fingerbang.ogg/revision/latest?cb=20170117215037" width="180" style="max-width: 100%; width: 180px;" controls=""><a href="https://geometry-dash.fandom.com/wiki/File:Fingerbang.ogg">https://geometry-dash.fandom.com/wiki/File:Fingerbang.ogg</a></audio>
+</td></tr></tbody></table>
